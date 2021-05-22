@@ -1,4 +1,10 @@
-O script está descrito na linguagem python.
+Nesse repositório temos dois scripts programados na linguagem python.
+
+1 - O primeiro script é a calculadora.py
+
+O objetivo da calculadora é simular as operações de uma casa de cambio. 
+
+2 - O segundo script é a parte2.py
 
 O objetivo deste programa é realizar uma rede de cadastro de clientes de uma casa de câmbio com as seguintes informações:
 
